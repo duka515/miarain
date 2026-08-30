@@ -20,7 +20,7 @@ window.SITE = {
       "2- Get the Free Lifetime Membership",
       "3- Enjoy thousands of models like me"
     ],
-    image: "assets/popup.gif",
+    image: "assets/popup-photos.gif",
     button: "Join for Free",
     url: "https://t.mbjrkmms.com/133986/8780/38462?aff_sub3=TC_LW9H5CT9&aff_sub5=SF_006OG00000NbNlB&aff_sub=RD1"
   }
