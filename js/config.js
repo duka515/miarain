@@ -4,13 +4,13 @@ window.SITE = {
   flag: "🇺🇸",
   videos: 214,
   photos: 389,
-  avatar: "assets/avatar.svg",
-  liveUrl: "https://example.com/live",
-  liveImage: "assets/popup-live.svg",
-  premiumUrl: "https://example.com/premium",
-  premiumImage: "assets/popup-premium.svg",
-  photosUrl: "https://example.com/photos",
-  photosImage: "assets/popup-photos.svg",
+  avatar: "assets/avatar.jpeg",
+  liveUrl: "https://t.mbjrkmms.com/133986/8780/38462?aff_sub3=TC_LW9H5CT9&aff_sub5=SF_006OG00000NbNlB&aff_sub=TTT",
+  liveImage: "assets/popup-live.jpeg",
+  premiumUrl: "https://t.mbjrkmms.com/133986/8780/38462?aff_sub3=TC_LW9H5CT9&aff_sub5=SF_006OG00000NbNlB&aff_sub=TTT",
+  premiumImage: "assets/popup-premium.jpeg",
+  photosUrl: "https://t.mbjrkmms.com/133986/8780/38462?aff_sub3=TC_LW9H5CT9&aff_sub5=SF_006OG00000NbNlB&aff_sub=TTT",
+  photosImage: "assets/popup-photos.jpeg",
   popup: {
     enabled: true,
     brand: "Jerkmate",
@@ -22,6 +22,6 @@ window.SITE = {
     ],
     image: "assets/popup.svg",
     button: "Join for Free",
-    url: "https://example.com/join"
+    url: "https://t.mbjrkmms.com/133986/8780/38462?aff_sub3=TC_LW9H5CT9&aff_sub5=SF_006OG00000NbNlB&aff_sub=TTT"
   }
 };
